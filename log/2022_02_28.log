@@ -1,0 +1,30 @@
+2022-02-28 23:32:26.923694 [info] : ========== Server init ==========
+2022-02-28 23:32:26.923708 [info] : Port:1316, OpenLinger: false
+2022-02-28 23:32:26.923711 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-02-28 23:32:26.923714 [info] : LogSys level: 1
+2022-02-28 23:32:26.923716 [info] : srcDir: /home/lzs/WebServer-master/resources/
+2022-02-28 23:32:26.923719 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-02-28 23:32:26.923722 [info] : ========== Server start ==========
+2022-02-28 23:36:07.025919 [info] : Client[18](192.168.206.1:40918) in, userCount:1
+2022-02-28 23:36:07.026112 [info] : Client[18] in!
+2022-02-28 23:36:07.026152 [info] : Client[19](192.168.206.1:41174) in, userCount:2
+2022-02-28 23:36:07.026174 [info] : Client[19] in!
+2022-02-28 23:36:07.091088 [info] : Client[22](192.168.206.1:41430) in, userCount:3
+2022-02-28 23:36:07.091247 [info] : Client[22] in!
+2022-02-28 23:36:07.091294 [info] : Client[23](192.168.206.1:41686) in, userCount:4
+2022-02-28 23:36:07.091300 [info] : Client[23] in!
+2022-02-28 23:36:07.091897 [info] : Client[24](192.168.206.1:41942) in, userCount:5
+2022-02-28 23:36:07.091973 [info] : Client[24] in!
+2022-02-28 23:36:07.177043 [info] : Client[27](192.168.206.1:42454) in, userCount:6
+2022-02-28 23:36:07.177140 [info] : Client[27] in!
+2022-02-28 23:37:07.237721 [info] : Client[18] quit!
+2022-02-28 23:37:07.238400 [info] : Client[18](192.168.206.1:40918) quit, UserCount:5
+2022-02-28 23:37:07.238549 [info] : Client[19] quit!
+2022-02-28 23:37:07.238888 [info] : Client[19](192.168.206.1:41174) quit, UserCount:4
+2022-02-28 23:37:07.239001 [info] : Client[27] quit!
+2022-02-28 23:37:07.239257 [info] : Client[27](192.168.206.1:42454) quit, UserCount:3
+2022-02-28 23:37:07.239395 [info] : Client[24] quit!
+2022-02-28 23:37:07.239705 [info] : Client[24](192.168.206.1:41942) quit, UserCount:2
+2022-02-28 23:37:07.239816 [info] : Client[23] quit!
+2022-02-28 23:37:07.240034 [info] : Client[23](192.168.206.1:41686) quit, UserCount:1
+2022-02-28 23:37:08.384008 [info] : Client[22] quit!
